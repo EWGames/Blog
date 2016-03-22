@@ -1,0 +1,2 @@
+# Blog
+EW Games Blog
